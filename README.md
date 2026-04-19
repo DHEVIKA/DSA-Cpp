@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0509-fibonacci-number) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
