@@ -58,5 +58,18 @@ stack:
     return st_is_empty()
 
 
+    Example Walkthrough 🚶‍♂️
+Input: ({[]})
+
+Char	Action	Stack State
+(	Push (	[(]
+{	Push {	[(, {]
+[	Push [	[(, {, []
+]	Pop [ (matches ])	[(, {]
+}	Pop { (matches })	[(]
+)	Pop ( (matches ))	[] (empty)
+✅ Valid! (Stack is empty after processing all characters.)
+
+
 
 **/
