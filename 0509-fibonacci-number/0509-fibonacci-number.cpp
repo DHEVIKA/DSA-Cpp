@@ -3,8 +3,8 @@ public:
     unordered_map<int, int> map;
 
     int fib(int n) {
-        map[0] = 0;
-        map[1] = 1;
+        // map[0] = 0;
+        // map[1] = 1;
         return recursion(n);
     }
 
