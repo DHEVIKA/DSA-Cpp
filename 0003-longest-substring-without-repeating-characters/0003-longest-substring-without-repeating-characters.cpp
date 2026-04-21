@@ -1,33 +1,63 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        unordered_map<char, int> map;
-        int l = 0, r = 0, maxLen = 0;
-        int n = s.length();
-
-        while (r < n) {
-            if (map.find(s[r]) != map.end()) {
-                l = max(l, map[s[r]] + 1);
+        if(s.length()==0)return 0;   //if string of length zero comes simply return 0
+        unordered_map<char,int> m;   //create map to store frequency,(get to know all unique characters
+        int i=0,j=0,ans=INT_MIN; 
+        while(j<s.length())   
+        {
+            m[s[j]]++;  //increase the frequency of the element as you traverse the string
+            if(m.size()==j-i+1)  // whem map size is equal to the window size means suppose window size is 3 and map size is also three that means in map all unique characters are their
+            {
+                ans = max(ans,j-i+1);  //compare the length of the maximum window size
             }
-            int len = r - l + 1;
-            maxLen = max(maxLen, len);
-            map[s[r]] = r;
-            r++;
+            else if(m.size()<j-i+1)   //if the map size is less than the window size means there is some duplicate present like window size = 3 and map size = 2 means there is a duplicates
+            {
+                while(m.size()<j-i+1)  //so till the duplicates are removed completely
+                {
+                    m[s[i]]--;   //remove the duplicates
+                    if(m[s[i]]==0)  //if the frequency becomes zero 
+                    {
+                        m.erase(s[i]);//delete it completely
+                    }
+                    i++;  //go for next element 
+                }
+            }
+             j++;  //go for the next element
         }
-        return maxLen;
+        return ans;
     }
 };
 
+/* 
+Before moving to the problem I want to give you a template which you can use in any sliding window {Variable size} problem
 
-/*
-Hint 1 - What is this question asking?
-You're asked to find the length of the longest substring in a given string that contains no repeated characters. A substring is a continuous part of the string.
-Hint 2 - What kind of approach can help?
-You can use the sliding window technique — it's perfect for problems involving substrings and checking conditions as you move through the string.
-Hint 3 - What is a sliding window?
-Think of it like a moving window over the string. You expand it to include more characters and shrink it when you find a problem (like a duplicate character).
-Hint 4 - How do you track characters?
-Use a map to remember the last index where each character appeared. If a character repeats, move the start of the window just past its last seen position.
-Hint 5 - When do you update the answer?
-After adjusting the window to ensure all characters inside are unique, update the maximum length if the current window is longer than the previous best.
+while(j < size()){
+
+    // Calculation's happen's here
+-----------------------------------------------
+    if(condition < k){
+        j++;
+    }
+-----------------------------------------------
+
+-----------------------------------------------
+    else if(condition == k){
+        // ans <-- calculation
+        j++;
+    }
+----------------------------------------------
+
+----------------------------------------------
+    else if(condition > k){
+        while(condition > k){
+            // remove calculation for i
+            i++;
+        }
+        j++;
+    }
+----------------------------------------------
+}
+return ans;
+
 */
