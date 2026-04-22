@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0012-integer-to-roman) |
 | [0070-climbing-stairs](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0409-longest-palindrome) |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0409-longest-palindrome) |
 ## Sliding Window
