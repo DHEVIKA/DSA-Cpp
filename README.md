@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0918-maximum-sum-circular-subarray) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0409-longest-palindrome) |
 ## Stack
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0049-group-anagrams) |
 | [0409-longest-palindrome](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0409-longest-palindrome) |
 ## Sliding Window
 |  |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0049-group-anagrams) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Monotonic Stack
 |  |
