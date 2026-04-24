@@ -1,44 +1,35 @@
 class Solution {
 public:
-    vector<vector<int>> threeSum(vector<int>& arr) {
-        
-        // Time : (NLogN + N^2) = N^2 | Space: O(N) sorting pace
+    vector<vector<int>> threeSum(vector<int>& nums) {
+        vector<vector<int>> res;
+        sort(nums.begin(), nums.end());
 
-        sort(arr.begin(), arr.end()); // NLogN Time, N Space
-        vector<vector<int>> res; // outspace is not included in space complexity
-        int n = arr.size();
-
-        for (int i = 0; i < n; i++) {
-
-            if (i > 0 && arr[i] == arr[i - 1]) continue;
-
-            int j = i + 1, k = n - 1;
+        for (int i = 0; i < nums.size(); i++) {
+            if (i > 0 && nums[i] == nums[i-1]) {
+                continue;
+            }
+            
+            int j = i + 1;
+            int k = nums.size() - 1;
 
             while (j < k) {
+                int total = nums[i] + nums[j] + nums[k];
 
-                int cur = arr[i] + arr[j] + arr[k];
-
-                if (cur < 0) {
-                    j++;
-                } else if (cur > 0) {
+                if (total > 0) {
                     k--;
+                } else if (total < 0) {
+                    j++;
                 } else {
-
-                    res.push_back({arr[i], arr[j], arr[k]});
-
+                    res.push_back({nums[i], nums[j], nums[k]});
                     j++;
-                    k--;
 
-                    // skip duplicates for j
-                    while (j < k && arr[j] == arr[j - 1]) j++;
-
-                    // skip duplicates for k
-                    while (j < k && arr[k] == arr[k + 1]) k--;
+                    while (nums[j] == nums[j-1] && j < k) {
+                        j++;
+                    }
                 }
             }
         }
-
-        return res;
+        return res;        
     }
 };
 
@@ -97,4 +88,12 @@ k = 5
 
 
 ------
+*/ 
+
+/* The i should be as static and the j and k are moving indexes 
+
+   if the total > 0 then we need to move k as back k--
+   if the total < 0 then we need to  move  j as forward j++
+   if the total == 0 the the we found triplet
+   if the j and k reaches to the same then only u have to increment i if not then i will be as static
 */
