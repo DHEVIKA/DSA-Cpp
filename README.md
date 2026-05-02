@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0070-climbing-stairs) |
 | [0396-rotate-function](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0509-fibonacci-number) |
+| [0788-rotated-digits](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0788-rotated-digits) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3783-mirror-distance-of-an-integer](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0647-palindromic-substrings) |
+| [0788-rotated-digits](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0788-rotated-digits) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0918-maximum-sum-circular-subarray) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
