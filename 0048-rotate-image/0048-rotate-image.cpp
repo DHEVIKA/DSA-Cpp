@@ -1,27 +1,18 @@
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
-    void rotate(vector<vector<int>>& arr) {
-        int n = arr.size();
-        int m = arr[0].size();
-// swap
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < m; j++) {
-                int temp = arr[i][j];
-                arr[i][j] = arr[j][i];
-                arr[j][i] = temp;
+    void rotate(vector<vector<int>>& matrix) {
+        int n = matrix.size();
+
+        // Step 1: transpose
+        for(int i = 0; i < n; i++){
+            for(int j = i + 1; j < n; j++){
+                swap(matrix[i][j], matrix[j][i]);
             }
         }
-// reverse 
-        for (auto& row : arr) {
-            int i = 0, j = row.size() - 1;
-            while (i < j) {
-                swap(row[i], row[j]);
-                i++;
-                j--;
-            }
+
+        // Step 2: reverse each row
+        for(int i = 0; i < n; i++){
+            reverse(matrix[i].begin(), matrix[i].end());
         }
     }
 };
