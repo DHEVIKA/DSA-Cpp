@@ -1,32 +1,32 @@
 class Solution {
 public:
     int maxProfit(vector<int>& prices) {
-        int lsf = INT_MAX; // least so for (lsf)
-        int op = 0; //overall profit  (op)
-        int pist = 0; //  profit if sold today (pist)
+        int minPrice = INT_MAX;
+        int maxProfit = 0;
 
-        for(int i = 0; i < prices.size(); i++){
-            if(prices[i] < lsf){ // if we found new buy value which is more smaller then previous one
-                lsf = prices[i]; // update our least so far
-            }
-            pist = prices[i] - lsf; // calculating profit if sold today by, Buy - sell
-            if(op < pist){ // if pist is more then our previous overall profit
-                op = pist; // update overall profit
-            }
+        for (int price : prices) {
+            minPrice = min(minPrice, price);
+            maxProfit = max(maxProfit, price - minPrice);
         }
-        return op; // return op 
+        return maxProfit;
     }
 };
 
 /*
- Remember one rule :- You can only buy one time & sell one time
+1 . To get the maximum profit, we need to buy at the lowest price and sell at a higher price later.
+2 . So, the main idea is to keep track of the lowest price seen so far, and at each step, calculate the potential profit if we were to sell at the current price.
+3 . If this profit is higher than our previous maximum, we update it.
 
-So, if buy at 7 & sell at any time in the future, we'll face loss. Because buying price is way higher then selling price available we have
+ Approach 
+We want to maximize profit by buying and selling the stock once (buy before sell). To solve this in a single pass:
 
-Now, I have seen a dip & I buy at 1 & sell at 5 my overall profit will be 5 - 1 = 4
+1 . Initialize min with the highest possible value (Int_MAX) to keep track of the lowest price (best buying point) so far.
+2 . Initialize maxProfit to 0 to track the maximum profit encountered.
+3 . Loop through the prices array:
 
-But what if, I had buy at 1 & sell at 6 my profit will be 6 - 1 = 5. Which is greater then my overall profit. So, i will update my overall profit with new value.
-
-Now we have done as further we don't have any higher point to sell. We will return our answer.
+Update min to be the smaller of the current price and the previous min.
+Calculate the profit if we sell at the current price: price - min.
+Update maxProfit if this profit is greater than the previous maxProfit.
+This greedy approach ensures we always make the most profitable decision at each point without needing to check every pair.
 
 */
