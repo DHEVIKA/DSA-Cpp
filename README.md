@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1861-rotating-the-box) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2965-find-missing-and-repeated-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0680-valid-palindrome-ii) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1861-rotating-the-box) |
 ## Binary Search
 |  |
 | ------- |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0073-set-matrix-zeroes) |
+| [1861-rotating-the-box](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1861-rotating-the-box) |
 | [2965-find-missing-and-repeated-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
