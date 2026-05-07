@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0485-max-consecutive-ones) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0713-subarray-product-less-than-k](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0918-maximum-sum-circular-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0409-longest-palindrome) |
+| [0904-fruit-into-baskets](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [2965-find-missing-and-repeated-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2965-find-missing-and-repeated-values) |
 ## Sliding Window
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1004-max-consecutive-ones-iii) |
 ## Sorting
 |  |
