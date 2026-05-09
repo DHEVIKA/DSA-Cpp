@@ -1,7 +1,7 @@
 class Solution {
 public:
     long long maximumSubarraySum(vector<int>& nums, int k) {
-        unordered_map<int, int> freq;
+        unordered_map<int, int> freq; // to calculate duplicates
         long long windowSum = 0, maxSum = 0;
         int l = 0;
 
@@ -9,7 +9,7 @@ public:
             windowSum += nums[r];
             freq[nums[r]]++;
 
-            if (r - l + 1 > k) {
+            if (r - l + 1 > k) {  //if the length is exceeded k 
                 windowSum -= nums[l];
                 freq[nums[l]]--;
                 if (freq[nums[l]] == 0) {
