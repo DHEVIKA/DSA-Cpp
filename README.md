@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1861-rotating-the-box](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1914-cyclically-rotating-a-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2965-find-missing-and-repeated-values) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3660-jump-game-ix) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2965-find-missing-and-repeated-values) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sliding Window
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1004-max-consecutive-ones-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
 | ------- |
