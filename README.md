@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0918-maximum-sum-circular-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0994-rotting-oranges](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0994-rotting-oranges) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Matrix
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0073-set-matrix-zeroes) |
+| [0994-rotting-oranges](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0994-rotting-oranges) |
 | [1861-rotating-the-box](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1914-cyclically-rotating-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2965-find-missing-and-repeated-values) |
