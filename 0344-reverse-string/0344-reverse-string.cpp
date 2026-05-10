@@ -4,68 +4,31 @@ public:
         int n = s.size();
         int left = 0;
         int right = n-1;
-        while(left<right){
-            swap(s[left],s[right]);
+        while(left <= right){
+            char temp = s[left];
+            s[left] =s[right];
+            s[right] = temp;
+// or swap(s[left],s[right]);
             left++;
             right--;
-        }
-        
+        }        
     }
 };
 
 /*
-We use two pointers:
 
-start → beginning of the array
-end   → end of the array
-Steps:
+ Time Complexity – O(n)
+ Space Complexity – O(1)
 
-1️⃣ Swap characters at start and end.
+Example: s = ["h","e","l","l","o"] –
 
-2️⃣ Move pointers inward:
+Step Left Pointer(left) Right Pointer(right) Characters
+Swapped
+Array After Swap
+1. 0 4 h ↔ o ['o', 'e', 'l', 'l', 'h']
+2. 1 3 e ↔ l ['o', 'l', 'l', 'e', 'h']
+3. 2 2 (middle element,
+stop)
+['o', 'l', 'l', 'e', 'h']
 
-start++
-end--
-3️⃣ Continue until the pointers meet.
-
-This gradually reverses the array.
-
-Step-by-Step Example
-s = ['h','e','l','l','o']
-Start:
-
-left = 0
-right  = 4
-Swap:
-
-h ↔ o
-Array becomes:
-
-[o,e,l,l,h]
-Move pointers:
-
-left = 1
-right  = 3
-Swap:
-
-e ↔ l
-Array becomes:
-
-[o,l,l,e,h]
-Move pointers again:
-
-left = 2
-right  = 2
-Now pointers meet → stop.
-
-Final result:
-
-['o','l','l','e','h']
-⏱️ Complexity Analysis
-Time Complexity
-O(n)
-We traverse half of the array once.
-
-Space Complexity
-O(1)
-No extra memory is used because we reverse the array in-place. */
+*/
