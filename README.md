@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1914-cyclically-rotating-a-grid](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1914-cyclically-rotating-a-grid) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2553-separate-the-digits-in-an-array](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2553-separate-the-digits-in-an-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2965-find-missing-and-repeated-values) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3660-jump-game-ix) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0054-spiral-matrix) |
 | [1914-cyclically-rotating-a-grid](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1914-cyclically-rotating-a-grid) |
+| [2553-separate-the-digits-in-an-array](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2553-separate-the-digits-in-an-array) |
 ## Counting
 |  |
 | ------- |
