@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1186-maximum-subarray-sum-with-one-deletion) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1861-rotating-the-box) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0409-longest-palindrome) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0680-valid-palindrome-ii) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Linked List
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0169-majority-element) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0977-squares-of-a-sorted-array) |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Monotonic Stack
 |  |
