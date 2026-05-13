@@ -17,6 +17,8 @@ public:
     }
 };
 
+// where the duplicates occurs theres a cycle lives so use  fast n slow pattern
+
 /* Detailed Logic Behind the Fast-Slow Pointers Approach
 Step 1: Initialize Pointers
 First, we initialize two pointers, slow and fast, both set to nums[0]. This is the starting point for both pointers, and it's done to set up the conditions for Floyd's cycle detection algorithm.
