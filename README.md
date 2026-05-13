@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0647-palindromic-substrings](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0647-palindromic-substrings) |
 | [0680-valid-palindrome-ii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0680-valid-palindrome-ii) |
+| [0876-middle-of-the-linked-list](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1861-rotating-the-box) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0206-reverse-linked-list](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0206-reverse-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0876-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
