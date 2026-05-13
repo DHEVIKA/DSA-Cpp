@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0202-happy-number) |
 | [0396-rotate-function](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0788-rotated-digits) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0409-longest-palindrome](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0409-longest-palindrome) |
 | [0904-fruit-into-baskets](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
