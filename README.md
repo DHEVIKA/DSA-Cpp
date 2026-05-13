@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0396-rotate-function](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0485-max-consecutive-ones) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0209-minimum-size-subarray-sum) |
+| [0287-find-the-duplicate-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1004-max-consecutive-ones-iii) |
@@ -299,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0136-single-number) |
+| [0287-find-the-duplicate-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
 ## Bucket Sort
 |  |
 | ------- |
