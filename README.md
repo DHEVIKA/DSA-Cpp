@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2553-separate-the-digits-in-an-array](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2553-separate-the-digits-in-an-array) |
+| [2784-check-if-array-is-good](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2965-find-missing-and-repeated-values) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2784-check-if-array-is-good](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2965-find-missing-and-repeated-values) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sliding Window
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [2784-check-if-array-is-good](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Monotonic Stack
 |  |
