@@ -1,63 +1,23 @@
 class Solution {
 public:
     int lengthOfLongestSubstring(string s) {
-        if(s.length()==0)return 0;   //if string of length zero comes simply return 0
-        unordered_map<char,int> m;   //create map to store frequency,(get to know all unique characters
-        int i=0,j=0,ans=INT_MIN; 
-        while(j<s.length())   
-        {
-            m[s[j]]++;  //increase the frequency of the element as you traverse the string
-            if(m.size()==j-i+1)  // whem map size is equal to the window size means suppose window size is 3 and map size is also three that means in map all unique characters are their
-            {
-                ans = max(ans,j-i+1);  //compare the length of the maximum window size
+        int maxLength = 0;
+        int left = 0;
+        unordered_map<char, int> map ;
+// its a dymanic sliding window without size k
+        for (int right = 0; right < s.length(); right++) {
+            char c = s[right]; //expand the right window
+            map[c] = map[c] + 1;
+            
+            while (map[c] > 1) { // check condition
+                char leftChar = s[left];
+                map[leftChar] = map[leftChar] - 1; // shirnk the left window
+                left++;
             }
-            else if(m.size()<j-i+1)   //if the map size is less than the window size means there is some duplicate present like window size = 3 and map size = 2 means there is a duplicates
-            {
-                while(m.size()<j-i+1)  //so till the duplicates are removed completely
-                {
-                    m[s[i]]--;   //remove the duplicates
-                    if(m[s[i]]==0)  //if the frequency becomes zero 
-                    {
-                        m.erase(s[i]);//delete it completely
-                    }
-                    i++;  //go for next element 
-                }
-            }
-             j++;  //go for the next element
+            
+            maxLength = max(maxLength, right - left + 1); // update the len
         }
-        return ans;
+        
+        return maxLength;        
     }
 };
-
-/* 
-Before moving to the problem I want to give you a template which you can use in any sliding window {Variable size} problem
-
-while(j < size()){
-
-    // Calculation's happen's here
------------------------------------------------
-    if(condition < k){
-        j++;
-    }
------------------------------------------------
-
------------------------------------------------
-    else if(condition == k){
-        // ans <-- calculation
-        j++;
-    }
-----------------------------------------------
-
-----------------------------------------------
-    else if(condition > k){
-        while(condition > k){
-            // remove calculation for i
-            i++;
-        }
-        j++;
-    }
-----------------------------------------------
-}
-return ans;
-
-*/
