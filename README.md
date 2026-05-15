@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1861-rotating-the-box](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1861-rotating-the-box) |
 | [1914-cyclically-rotating-a-grid](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1914-cyclically-rotating-a-grid) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1004-max-consecutive-ones-iii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Math
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0680-valid-palindrome-ii) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Linked List
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sorting
 |  |
@@ -243,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0977-squares-of-a-sorted-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2784-check-if-array-is-good](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Monotonic Stack
@@ -336,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Number Theory
 |  |
 | ------- |
