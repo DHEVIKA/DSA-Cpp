@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0643-maximum-average-subarray-i](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0731-my-calendar-ii) |
 | [0904-fruit-into-baskets](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0904-fruit-into-baskets) |
 | [0918-maximum-sum-circular-subarray](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0918-maximum-sum-circular-subarray) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0300-longest-increasing-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0713-subarray-product-less-than-k) |
+| [0729-my-calendar-i](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0731-my-calendar-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1004-max-consecutive-ones-iii) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/DHEVIKA/DSA-Cpp/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -378,13 +380,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
