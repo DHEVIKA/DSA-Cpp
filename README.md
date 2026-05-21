@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2784-check-if-array-is-good](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2784-check-if-array-is-good) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2965-find-missing-and-repeated-values) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3169-count-days-without-meetings](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3169-count-days-without-meetings) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3660-jump-game-ix](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3660-jump-game-ix) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0796-rotate-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Stack
 |  |
 | ------- |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2784-check-if-array-is-good](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2784-check-if-array-is-good) |
 | [2965-find-missing-and-repeated-values](https://github.com/DHEVIKA/DSA-Cpp/tree/master/2965-find-missing-and-repeated-values) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Sliding Window
 |  |
@@ -401,4 +404,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0729-my-calendar-i](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/DHEVIKA/DSA-Cpp/tree/master/0731-my-calendar-ii) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/DHEVIKA/DSA-Cpp/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
