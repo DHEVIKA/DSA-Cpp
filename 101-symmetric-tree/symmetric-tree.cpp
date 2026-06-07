@@ -24,3 +24,13 @@ public:
         return isTreeSymmetric(root -> left, root -> right);
     }
 };
+
+/* Approach
+Define a function "isTreeSymmetric" that takes in two TreeNode pointers as inputs, "leftRoot" and "rightRoot"
+If both "leftRoot" and "rightRoot" are null, return true
+If only one of "leftRoot" or "rightRoot" is null, return false
+If "leftRoot" and "rightRoot" are not null and their values are not equal, return false
+If "leftRoot" and "rightRoot" are not null and their values are equal, recursively call "isTreeSymmetric" on the left child of "leftRoot" and the right child of "rightRoot", and the right child of "leftRoot" and the left child of "rightRoot"
+Return true if both recursive calls return true, else return false
+Define a function "isSymmetric" that takes in a TreeNode pointer "root" as input
+Call "isTreeSymmetric" on the left child of "root" and the right child of "root" and return the result*/
