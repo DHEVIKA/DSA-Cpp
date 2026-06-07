@@ -33,3 +33,12 @@ public:
         return res;
     }
 };
+
+/* Use a deque to store nodes of each level.
+Use a boolean flag reverse to toggle direction.
+If reverse == false:
+Poll nodes from the front of deque, add their children left → right to the back.
+If reverse == true:
+Poll nodes from the back, add their children right → left to the front.
+Toggle reverse after each level.
+*/
