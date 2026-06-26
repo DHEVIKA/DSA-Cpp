@@ -13,7 +13,7 @@ public:
                 cnt = 0; // if theres not 1 do reset as 0
                 
             }
-            ans = max(ans,cnt);
+            ans = max(ans,cnt); // only maximize the highest continuous of 1s 
 
         }
         return ans ;
